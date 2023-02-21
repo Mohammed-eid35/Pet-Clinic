@@ -51,8 +51,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/Mohammed-eid35/Pet-Clinic.git</developerConnection>
-      <tag>Pet-Clinic-0.0.1</tag>
+        <developerConnection>scm:git:git@github.com:Mohammed-eid35/Pet-Clinic.git</developerConnection>
+        <tag>Pet-Clinic-0.0.1</tag>
   </scm>
 
 </project>
